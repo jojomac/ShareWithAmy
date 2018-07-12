@@ -11,11 +11,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var apples = ""
     override func viewDidLoad() {
         super.viewDidLoad()
-        //new comment
-        //new comment
-        //new comment
+        
     
         
         // Do any additional setup after loading the view, typically from a nib.
